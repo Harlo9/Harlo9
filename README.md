@@ -62,7 +62,7 @@ Master's student in **AI / Machine Learning** at IPSA Paris, I build end-to-end 
 
 ## 🟢 Open to work
 
-I'm actively looking for a **full-time ML Engineer position** (CDI or long-term contract) based in **Paris** or remote.
+I'm actively looking for a **full-time ML Engineer position** (CDI or long-term contract) any where in the world.
 
 👉 Feel free to reach out at **khaif.sithamii@gmail.com** or connect on LinkedIn!
 
