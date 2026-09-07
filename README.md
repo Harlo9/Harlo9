@@ -1,73 +1,52 @@
 <div align="center">
 
-# Hi, I'm Khaif Si-Thami 👋
-### Machine Learning Engineer · Paris, France
+# Si-Thami Khaif
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/si-thami-khaif)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaif.sithamii@gmail.com)
+### Freelance GenAI / LLM Engineer · Paris, France
+
+[Portfolio](https://VOTRE-PORTFOLIO.com) · [LinkedIn](https://www.linkedin.com/in/si-thami-khaif) · [khaif.sithamii@gmail.com](mailto:khaif.sithamii@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About me
+I build RAG and multi-agent systems that run in production: retrieval, evaluation, deployment. Available for freelance missions.
 
-Master's student in **AI / Machine Learning** at IPSA Paris, I build end-to-end ML systems that reach production — from research to deployment.
-
-- 🏭 **Safran** — built automation tools & a RAG virtual assistant (200+ daily users)
-- 🔬 **Air Liquide Japan** — Computer Vision for MedTech + MLOps pipelines for Chemical R&D
-- 🌏 **International experience** — 6 months in **South Korea** (Keimyung University) · 6 months in **Japan** (Yokosuka)
-- 🎓 Graduating **December 2025** — open to full-time ML Engineer roles
+**Stack:** Python · LangChain · LangGraph · Ollama · Azure OpenAI · Anthropic API · FAISS · FastAPI · Docker · PyTorch
 
 ---
 
-## 🛠️ Tech stack
+## Client work
 
-**ML & Deep Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**MLOps & Deployment**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**Data & Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+| Client | What I built |
+|---|---|
+| **Safran Aerosystems** | On-premise RAG assistant on their SharePoint (LangChain + Ollama). 250+ active users, reporting time cut by an estimated 60%. |
+| **Air Liquide R&D Japan** | RAG system for researchers: sourced answers, hallucination measurement, LLM-as-a-judge validation. |
 
 ---
 
-## 🌍 Experience highlights
+## Projects
 
-| Company | Role | Location | Impact |
-|---|---|---|---|
-| **Air Liquide Japan** | ML Engineer Intern | 🇯🇵 Yokosuka | CV system at 95% accuracy · MLOps across 2 R&D sites |
-| **Safran Aerosystems** | Software Tool Developer | 🇫🇷 Paris | RAG assistant · 200+ daily users |
-| **Safran Aircraft Engines** | Software Developer | 🇫🇷 Paris | Python automation · delivery tracking tool |
-| **Keimyung University** | Exchange Program | 🇰🇷 Daegu | ML Theory · AI Programming |
+**[rag-benchmark-local-vs-cloud](https://github.com/Harlo9/rag-benchmark-local-vs-cloud)**
+Local vs Azure RAG benchmark on 6,000+ chunks of scientific papers. Dense, BM25, hybrid RRF and cross-encoder reranking compared on nDCG@10, then answer quality scored on faithfulness, hallucination rate and out-of-domain abstention.
 
----
+**[NER_for_Cyber](https://github.com/Harlo9/NER_for_Cyber)**
+Named entity recognition on cybersecurity text.
 
-## 🌐 Languages
-
-🇫🇷 French — Native &nbsp;|&nbsp; 🇬🇧 English — C1 (TOEIC 900/990) &nbsp;|&nbsp; 🇪🇸 Spanish — Intermediate &nbsp;|&nbsp; 🇰🇷 Korean — Basics
+**[credit-scoring](https://github.com/Harlo9/credit-scoring)**
+End-to-end credit scoring model, from data prep to evaluation.
 
 ---
 
-## 🟢 Open to work
+## About
 
-I'm actively looking for a **full-time ML Engineer position** (CDI or long-term contract) any where in the world.
-
-👉 Feel free to reach out at **khaif.sithamii@gmail.com** or connect on LinkedIn!
+- MSc in Machine Learning & Deep Learning, IPSA Paris (2026)
+- 6 months in South Korea (Keimyung University), 6 months in Japan (Yokosuka)
+- Tech and AI content creator, 100K+ followers ([@harlocmoi](https://www.tiktok.com/@harlocmoi))
+- French (native) · English C1 (TOEIC 900/990) · Spanish B2 · Korean B1
 
 ---
 
 <div align="center">
-<sub>⚡ Always building · Always learning</sub>
+<sub>Open to freelance missions, remote or Paris.</sub>
 </div>
