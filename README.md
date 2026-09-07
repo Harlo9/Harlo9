@@ -50,9 +50,9 @@ End-to-end credit scoring model, from data prep to evaluation.
 ## 🌍 About
 
 - 🎓 MSc in Machine Learning & Deep Learning, IPSA Paris (2026)
-- 🇰🇷 6 months in South Korea (Keimyung University) · 🇯🇵 6 months in Japan (Yokosuka)
+- 🇰🇷 6 months in South Korea (Keimyung University) · 🇯🇵 6 months in Japan (Tokyo)
 - 📱 Tech and AI content creator, 100K+ followers ([@harlocmoi](https://www.tiktok.com/@harlocmoi))
-- 🗣️ French (native) · English C1 (TOEIC 900/990) · Spanish B2 · Korean B1
+- 🗣️ French (native) · English C1 (TOEIC 900/990) · Spanish B2 
 
 ---
 
