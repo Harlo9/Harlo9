@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=140&section=header&text=Si-Thami%20Khaif&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Freelance%20GenAI%20/%20LLM%20Engineer%20·%20Paris&descAlignY=58&descSize=16" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sithami-khaif.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/si-thami-khaif-652a53220)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/si-thami-khaif-652a53220)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaif.sithamii@gmail.com)
 
 </div>
